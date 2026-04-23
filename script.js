@@ -13,7 +13,7 @@ class Day1  extends Day {
 }
 class Day2  extends Day {	
 	constructor (){
-		super('Кив сегодня работает', ' в ночь...', 'red');
+		super('Кив сегодня работает', 'в ночь...', 'red');
 	}	
 }
 class Day3  extends Day {	
